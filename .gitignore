@@ -1,0 +1,8 @@
+# Generated simulation executables
+simulation/*_run
+simulation/*_sim
+simulation/*_check
+
+# Temporary files
+*.tmp
+*.log~
